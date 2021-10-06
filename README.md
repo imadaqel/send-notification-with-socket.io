@@ -4,9 +4,3 @@ To read about the article you can follow the article link at my website.
 
 React:
 https://deepinder.me/creating-a-real-time-chat-application-with-angular-and-socket-io-with-nodejs/
-
-Angular:
-https://deepinder.me/creating-a-real-time-app-with-angular-8-and-socket-io-with-nodejs/
-
-Vue:
-https://deepinder.me/creating-a-real-time-chat-app-with-vue-socket-io-and-nodejs/
